@@ -37,5 +37,4 @@ document.addEventListener('DOMContentLoaded', () => {
     }, 100);
 
     console.log("Portfolio Initialized v1.0");
-    
 });
